@@ -47,3 +47,4 @@ Signal modelling and noise-robust fitting inspired by my MSc thesis on MRI noise
 
 Thanks for visiting my GitHub!  
 I'm building this portfolio step-by-step as I prepare for PhD applications in **precision medicine** and **medical image analysis**.
+
