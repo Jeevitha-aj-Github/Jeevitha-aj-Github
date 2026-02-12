@@ -1,4 +1,4 @@
-Healthcare Analytics | Predictive Modeling | AI for Clinical Decision Support
+Biomedical Engineer | Multimodal Biomedical Data Systems | Signal Processing & Digital Health
 Hi, I'm Jeevitha 👋
 
 Biomedical engineer working at the intersection of clinical imaging, healthcare analytics, and applied machine learning.
