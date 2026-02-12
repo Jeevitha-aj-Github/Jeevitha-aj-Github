@@ -1,51 +1,65 @@
-### Precision Medicine | Retinal Imaging | AI for Healthcare
-# Hi, I'm Jeevitha 👋  
-Biomedical engineer specialising in **retinal imaging**, **medical image analysis**, and **computational modelling**.
+Healthcare Analytics | Predictive Modeling | AI for Clinical Decision Support
+Hi, I'm Jeevitha 👋
 
-### 🔬 What I do
-- Perform **advanced ophthalmic imaging** (OCT, fundus photography, corneal scans) at Great Ormond Street Hospital  
-- Work on Python/MATLAB projects in **medical image analysis**, **signal processing**, and **neural simulations**  
-- Build small but strong research-style mini-projects for PhD preparation in imaging, AI, and precision medicine  
+Biomedical engineer working at the intersection of clinical imaging, healthcare analytics, and applied machine learning.
 
----
+🔬 What I Do
 
-## 📌 Highlighted Projects
+Perform advanced ophthalmic imaging (OCT, fundus photography, corneal scans) in a clinical hospital environment
 
-### 🧠 Dopamine Network Simulation  
-Toy spiking neuron model showing dopamine-modulated firing rates and recurrent network dynamics  
-➡️ `dopamine-network-simulation`
+Build applied Python projects focused on predictive modeling, risk analysis, and operational healthcare insights
 
-### 👁️ OCT Mini Project  
-Automated analysis of retinal OCT B-scans: intensity profiles, basic layer boundary detection, and structural feature extraction  
-➡️ `oct-mini-project`
+Translate clinical datasets into structured, decision-support systems
 
-### 🩺 Microvascular Image Analysis  
-Python pipeline for preprocessing, vessel extraction, and motion tracking — transferable to retinal vasculature analysis  
-➡️ `microvascular-image-analysis`
+Develop imaging and analytics pipelines that bridge clinical workflows and data science
 
-### 🧲 Low-SNR MRI Fitting  
-Signal modelling and noise-robust fitting inspired by my MSc thesis on MRI noise reduction  
-➡️ `mri-low-snr-fitting-dl`
+📌 Highlighted Projects
+🏥 Healthcare Operational Intelligence
 
----
+End-to-end predictive model for 30-day readmission risk with financial impact simulation (₹17.13M projected savings)
+➡️ Healthcare-Operational-Intelligence
 
-## 🛠️ Technical Skills
-- **Python:** NumPy, SciPy, scikit-image, Matplotlib, Jupyter  
-- **MATLAB:** signal processing, image filtering, simulation  
-- **Medical imaging:** OCT, fundus imaging, MRI basics, sensor processing  
-- **Computational modelling:** spiking neural networks, feature extraction  
-- Strong interest in **biomarkers**, **precision medicine**, and **explainable AI**
+👁️ OCT Mini Project
 
----
+Automated retinal OCT B-scan analysis with intensity profiling and structural feature extraction
+➡️ oct-mini-project
 
-## 🎯 Research Interests
-- Retinal biomarkers for neurological or psychiatric conditions  
-- Data analysis pipelines for clinical imaging datasets  
-- ML/AI methods in ophthalmic and biomedical imaging  
-- Computational models linking physiology with imaging features  
+🩺 Microvascular Image Analysis
 
----
+Python pipeline for preprocessing, vessel extraction, and motion tracking
+➡️ microvascular-image-analysis
 
-Thanks for visiting my GitHub!  
-I'm building this portfolio step-by-step as I prepare for PhD applications in **precision medicine** and **medical image analysis**.
+🧲 Low-SNR MRI Fitting
+
+Noise-robust MRI signal modelling inspired by MSc research
+➡️ mri-low-snr-fitting-dl
+
+🛠️ Technical Stack
+
+Python: pandas, NumPy, SciPy, scikit-learn, XGBoost, scikit-image
+
+Data Handling: feature engineering, one-hot encoding, model evaluation, threshold tuning
+
+Medical Imaging: OCT, fundus imaging, MRI fundamentals
+
+Modeling: classification models, signal modelling, applied ML workflows
+
+Visualization: Matplotlib, Power BI
+
+Environment: Jupyter Notebooks
+
+🎯 Focus Areas
+
+Predictive healthcare analytics
+
+Clinical risk modeling
+
+Operational cost simulation
+
+Imaging-driven biomarkers
+
+AI systems integrated into real clinical workflows
+
+Thanks for visiting.
+I build healthcare-focused ML systems that connect clinical data, predictive modeling, and real-world operational impact.
 
