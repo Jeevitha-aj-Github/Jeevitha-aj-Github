@@ -1,4 +1,6 @@
-Biomedical Engineer | Multimodal Biomedical Data Systems | Signal Processing & Digital Health
+Biomedical Engineer & Clinical Data Scientist | MSc University of Bristol | Specialized in Medical Image Analytics, Signal Processing, and Python-driven Healthcare Insights.
+
+
 Hi, I'm Jeevitha 👋
 
 Biomedical engineer working at the intersection of clinical imaging, healthcare analytics, and applied machine learning.
