@@ -1,67 +1,63 @@
-Biomedical Engineer & Clinical Data Scientist | MSc University of Bristol | Specialized in Medical Image Analytics, Signal Processing, and Python-driven Healthcare Insights.
+Jeevitha Abeth Nego
 
+Biomedical Engineer | MRI Signal & Imaging Simulation | Quantitative Image Analysis
 
-Hi, I'm Jeevitha 👋
+Profile
 
-Biomedical engineer working at the intersection of clinical imaging, healthcare analytics, and applied machine learning.
+Biomedical engineer with MSc in Biomedical Engineering (University of Bristol) focused on MRI signal modelling, k-space reconstruction, quantitative image analysis, and noise-robust simulation frameworks.
 
-🔬 What I Do
+This repository portfolio contains simulation-driven implementations inspired by clinical MRI physics, image reconstruction theory, and controlled signal modelling experiments.
 
-Perform advanced ophthalmic imaging (OCT, fundus photography, corneal scans) in a clinical hospital environment
+Core Technical Domains
 
-Build applied Python projects focused on predictive modeling, risk analysis, and operational healthcare insights
+Bloch equation magnetization simulation
 
-Translate clinical datasets into structured, decision-support systems
+RF pulse modelling and relaxation dynamics
 
-Develop imaging and analytics pipelines that bridge clinical workflows and data science
+k-space acquisition and Fourier reconstruction
 
-📌 Highlighted Projects
-🏥 Healthcare Operational Intelligence
+Undersampling artefact simulation
 
-End-to-end predictive model for 30-day readmission risk with financial impact simulation (₹17.13M projected savings)
-➡️ Healthcare-Operational-Intelligence
+Noise injection and SNR stability experiments
 
-👁️ OCT Mini Project
+Basic DICOM parsing and intensity quantification
 
-Automated retinal OCT B-scan analysis with intensity profiling and structural feature extraction
-➡️ oct-mini-project
+Featured Repository
+MRI-Signal-and-Reconstruction-Framework
 
-🩺 Microvascular Image Analysis
+A modular MATLAB simulation framework including:
 
-Python pipeline for preprocessing, vessel extraction, and motion tracking
-➡️ microvascular-image-analysis
+Bloch model implementation (T1 / T2 relaxation)
 
-🧲 Low-SNR MRI Fitting
+RF excitation pulse modelling
 
-Noise-robust MRI signal modelling inspired by MSc research
-➡️ mri-low-snr-fitting-dl
+k-space sampling and undersampling artefact generation
 
-🛠️ Technical Stack
+Phantom-based reconstruction experiments
 
-Python: pandas, NumPy, SciPy, scikit-learn, XGBoost, scikit-image
+Noise-driven stability analysis
 
-Data Handling: feature engineering, one-hot encoding, model evaluation, threshold tuning
+Structured as an educational yet technically grounded MRI signal sandbox.
 
-Medical Imaging: OCT, fundus imaging, MRI fundamentals
+Tools & Environment
 
-Modeling: classification models, signal modelling, applied ML workflows
+MATLAB (signal modelling & reconstruction)
 
-Visualization: Matplotlib, Power BI
+Python (analytics pipelines & modelling experiments)
 
-Environment: Jupyter Notebooks
+Fourier analysis & signal-domain simulation
 
-🎯 Focus Areas
+Quantitative imaging workflows
 
-Predictive healthcare analytics
+Research Orientation
 
-Clinical risk modeling
+Primary interests include:
 
-Operational cost simulation
+Low-SNR parameter stability
 
-Imaging-driven biomarkers
+Simulation-driven acquisition optimization
 
-AI systems integrated into real clinical workflows
+Reconstruction artefact behaviour
 
-Thanks for visiting.
-I build healthcare-focused ML systems that connect clinical data, predictive modeling, and real-world operational impact.
+Signal modelling under controlled perturbation
 
